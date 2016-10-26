@@ -12,10 +12,10 @@
 - post("/abc/message",callback);
 
 *Inside the client page(demo.html).*
-> form action="/message" method="post"
-> form action="/x/y/z/message" method="post"
-> form action="/abc/message" method="post"
-> Among these three;uncomment one  and save.
+* form action="/message" method="post"
+* form action="/x/y/z/message" method="post"
+* form action="/abc/message" method="post"
+* Among these three;uncomment one  and save.
 
 
 **server starts**
