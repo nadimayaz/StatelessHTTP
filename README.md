@@ -7,9 +7,9 @@
 
  Here i have designed three different POST APIs which acts independently on calling *from anywhere*.
  Their signatures are like:
-- post("/message");
-- post("/x/y/z/message");
-- post("/abc/message");
+- post("/message",callback);
+- post("/x/y/z/message",callback);
+- post("/abc/message",callback);
 
 *Inside the client page(demo.html).*
 > <form action="/message" method="post">
