@@ -26,7 +26,6 @@
 
 Opening the link : *localhost:8000* on the browser [Type a message and click on Send Button].
 
-**Thank You**
 
 
 
