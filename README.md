@@ -20,7 +20,7 @@
 * Among these three;uncomment one  and save.
 
 
-**server starts**
+**Server starts**
 - node server.js
 
 Opening the link : *localhost:8000* on the browser [Type a message and click on Send Button].
