@@ -7,10 +7,11 @@
 
  Here i have designed three different POST APIs which acts independently on calling *from anywhere*.
  Their signatures are like:
-- post("/message",callback);
-- post("/x/y/z/message",callback);
-- post("/abc/message",callback);
-
+ ```javascript
+ post("/message",callback);
+ post("/x/y/z/message",callback);
+ post("/abc/message",callback);
+```
 *Inside the client page(demo.html).*
  ```html
  <form action="/message" method="post">
