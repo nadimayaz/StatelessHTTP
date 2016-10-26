@@ -4,7 +4,7 @@
 
  It is a simple Demo where i tried to show how different requests are treated independently.
 
- Here i have designed three different POST APIs which acts independently on calling [from anywhere][dill] .
+ Here i have designed three different POST APIs which acts independently on calling [u][from anywhere] .
  Their signatures are like:
 - post("/message");
 - post("/x/y/z/message");
