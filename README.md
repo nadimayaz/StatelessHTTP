@@ -12,9 +12,11 @@
 - post("/abc/message",callback);
 
 *Inside the client page(demo.html).*
+ <html>
  <form action="/message" method="post">
  <form action="/x/y/z/message" method="post">
  <form action="/abc/message" method="post">
+ </html>
 * Among these three;uncomment one  and save.
 
 
